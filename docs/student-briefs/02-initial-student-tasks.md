@@ -2,7 +2,9 @@
 
 These tasks are for one student group of five members.
 
-The product name is intentionally open. The group must propose a suitable name as part of the discovery work.
+The product name is intentionally open. The group may use SchoolLink as a working name, but they can propose a better name as part of the discovery work.
+
+The first goal is not to start coding. The first goal is to understand the problem, define a realistic first version, and explain the thinking clearly.
 
 ## Suggested Team Split
 
@@ -14,9 +16,11 @@ The product name is intentionally open. The group must propose a suitable name a
 
 Students should still review each other's work. The final submission should feel like one coherent product proposal, not five disconnected documents.
 
+## Phase 1: Discovery
+
 ## Task 1: Understand the Problem
 
-Each group must study the problem before proposing a solution.
+The group must study the problem before proposing a solution.
 
 Prepare a short write-up covering:
 
@@ -55,6 +59,8 @@ Expected output:
 
 Avoid choosing a name only because it sounds modern. The name should make sense to schools, teachers, parents, and students.
 
+## Phase 2: Scope and Users
+
 ## Task 3: Define the MVP
 
 Decide what the first version of the platform should include.
@@ -77,6 +83,10 @@ Expected output:
 - MVP feature list
 - Out-of-scope feature list
 - Short reason for each decision
+
+Important:
+
+The MVP does not need to include every good idea. A smaller, clearer version is better than a large unclear version.
 
 ## Task 4: Identify User Roles and Permissions
 
@@ -101,6 +111,8 @@ Example questions:
 - Can a parent see another parent's information?
 - Can a student submit assignment status?
 - Can an admin edit all users?
+
+## Phase 3: Requirements and Workflows
 
 ## Task 5: Write User Stories
 
@@ -163,6 +175,8 @@ Important:
 
 Do not copy a complete specification from another source. Your goal is to think through the product and justify your design decisions.
 
+## Phase 4: Design Artifacts
+
 ## Task 8: Create Initial Data Model
 
 Identify the main data entities and relationships.
@@ -210,9 +224,11 @@ Expected output:
 - Hand-drawn, Figma, Excalidraw, or any clear wireframe format
 - Short explanation of each screen
 
+## Phase 5: Presentation
+
 ## Task 10: Present and Defend
 
-Each group must present their proposal.
+The group must present their proposal.
 
 Presentation should cover:
 
@@ -246,3 +262,15 @@ Be ready to answer:
 - ER diagram or data model
 - Wireframes
 - Presentation slides or document
+
+## Suggested First Submission
+
+For the first check-in, submit only:
+
+- Problem analysis document
+- Product name options and recommendation
+- Initial MVP and out-of-scope list
+- Initial user role list
+- Questions or assumptions that need mentor feedback
+
+The SRS, data model, user journeys, and wireframes can be improved after the first feedback session.
