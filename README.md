@@ -45,6 +45,8 @@ Start with these documents:
 - [Project Brief](docs/student-briefs/01-project-brief.md)
 - [Initial Student Tasks](docs/student-briefs/02-initial-student-tasks.md)
 
+The task work is split into smaller phase files inside `docs/student-briefs/`.
+
 ## Mentoring Principle
 
 Students should produce their own requirements, designs, diagrams, and implementation decisions.

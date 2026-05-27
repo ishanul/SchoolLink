@@ -90,22 +90,15 @@ Cover:
 
 List main entities and relationships.
 
-Suggested entities:
+Do not copy a table list from another source. Identify the data your proposed MVP actually needs.
 
-- School
-- User
-- Role
-- Teacher
-- Parent
-- Student
-- Class
-- Subject
-- Announcement
-- Assignment
-- ConsentForm
-- ConsentResponse
-- Notification
-- AuditLog
+For each entity, describe:
+
+- What it represents
+- Important fields
+- Relationships to other entities
+- Privacy or access concerns
+- Whether changes should be auditable
 
 ## 7. User Journeys
 
