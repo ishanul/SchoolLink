@@ -41,7 +41,7 @@ You must decide what belongs in the MVP and what should be postponed. Consider t
 
 ## Deliverables
 
-Each student group should produce:
+Student group should produce:
 
 - Proposed product name with justification
 - Problem statement
